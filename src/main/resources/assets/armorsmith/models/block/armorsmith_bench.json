@@ -1,0 +1,7 @@
+{
+	 "parent": "block/cube_all",
+	 "textures": 
+	 {
+	 	"layer0": "armorsmith:blocks/armorsmith_bench"
+	 }
+}
